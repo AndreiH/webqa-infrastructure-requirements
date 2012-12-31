@@ -1,0 +1,6 @@
+# This pulls in all the extra libraries needed to run tests
+# on Jenkins for Mozilla WebQA projects
+
+pytest-rerunfailures==0.03
+pytest-timeout==0.3
+pytest-xdist==1.8
